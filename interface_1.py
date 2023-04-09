@@ -14,7 +14,7 @@ def interface():
     elif ask==2:
         find_data()
     elif ask==3:
-        print_data
+        print_data()
     elif ask==4:
         load()
     elif ask==5:
